@@ -5,3 +5,5 @@ Question-Answer (QA) using Transformer is a type of artificial intelligence mode
 I have submitted Question and Answer Transformer log in GUVI, IIT- Madras. Please check with the following link.
 
 Blog Published Link  - https://forum.guvi.in/posts/6974/question-and-answer-using-pre-trained-transformers
+
+From the above file you can find pdf of Question and Answer using Transformer Blog
